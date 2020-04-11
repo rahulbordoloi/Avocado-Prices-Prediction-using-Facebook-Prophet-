@@ -1,5 +1,5 @@
 # Avocado-Prices-Prediction-using-Facebook-Prophet-
-A Simple Machine Learning Project using Facebook Prophet Forcasting              
+A Simple Machine Learning Project using Facebook Prophet Forecasting              
 Notebook used : Google Colab                                      
 
 1> Data represents weekly 2018 retail scan data for National retail volume (units) and price.            
