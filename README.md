@@ -11,8 +11,8 @@ To Predict : Price of Avocado over a certain period along with its trends and bo
 
 About Facebook Prophet,                
 x> Prophet is open source software released by Facebook’s Core Data Science team.                            
-x> Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects.               
-x> Prophet works best with time series that have strong seasonal effects and several seasons of historical data.          
+y> Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects.               
+z> Prophet works best with time series that have strong seasonal effects and several seasons of historical data.          
 
 If you're working on a Local Machine,                     
 Install the dependencies from your terminal with >> "pip install -r requirements.txt"
