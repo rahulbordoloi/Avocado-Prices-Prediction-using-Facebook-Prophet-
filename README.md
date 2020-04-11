@@ -14,4 +14,5 @@ x> Prophet is open source software released by Facebook’s Core Data Science te
 x> Prophet is a procedure for forecasting time series data based on an additive model where non-linear trends are fit with yearly, weekly, and daily seasonality, plus holiday effects.               
 x> Prophet works best with time series that have strong seasonal effects and several seasons of historical data.          
 
->>Install the dependencies from your terminal with "pip install -r requirements.txt"
+If you're working on a Local Machine,                     
+Install the dependencies from your terminal with >> "pip install -r requirements.txt"
